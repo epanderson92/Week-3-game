@@ -1,0 +1,36 @@
+#head{
+	font-size: 70px;
+	text-align: center;
+}
+
+
+#guessedWord{
+	text-align: center;
+	padding-top: 60px;
+	font-size: 60px
+
+}
+
+#guessedLetter{
+	font-size: 40px;
+}
+
+body{
+	background-color: grey;
+}
+
+.move{
+	margin-left: 175px;
+}
+
+
+#coatHang{
+	height:150px;
+	width:175px;
+
+}
+
+#tripleHang{
+	height:150px;
+	
+}
